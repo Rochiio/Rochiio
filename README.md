@@ -8,8 +8,11 @@
 
 -Escuchar música toooodo el día es una de mis pasiones🎧🎧 
 
--Si quieres hacerme feliz dame Sushi 🍣
+-Si quieres hacerme feliz dame Sushi 🍣<br><br>
 
 >🌸Los problemas son oportunidades disfrazadas🌸
 
+<br><br>
+
+![](Imagenes/Disfruta.png)
 
