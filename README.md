@@ -1,5 +1,5 @@
 ![imagen](Imagenes/Rocío.png)
-# Soy Rocío 💙🎮💻
+<h1 align=center>Soy Rocío 💙🎮💻</h1>
 -Soy estudiante de Grado Superior de *Desarrolo de Aplicaciones Multiplataforma* y tengo el Grado Medio de *Sistemas microinformáticos y redes*.
 
 -Intento programar😝💻
@@ -10,9 +10,33 @@
 
 -Si quieres hacerme feliz dame Sushi 🍣<br><br>
 
->🌸Los problemas son oportunidades disfrazadas🌸
+<blockquote align=center>🌸Los problemas son oportunidades disfrazadas🌸</blockquote>
 
-<br><br>
+<br>
+
+<h2 align=center> 🌷Lenguajes Utilizados🌷 </h2>
+
+---
+    -Java
+    -TypeScript
+    -HTML
+    -CSS
+
+<h2 align=center> 🌷Redes🌷 </h2>
+
+---
+<br>
+
+<a href="https://twitter.com/SrtaRocii_">
+  <img src="Imagenes/twitter.png" width="100">
+</a>
+<a href="https://www.linkedin.com/in/rociopalao/">
+  <img src="Imagenes/linkedin.png" width="100">
+</a>
+
+
+<br><bt>
+
 
 ![](Imagenes/Disfruta.png)
 
