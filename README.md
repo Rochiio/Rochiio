@@ -1,5 +1,6 @@
 ![imagen](Imagenes/Rocío.png)
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
+
 -Soy estudiante de Grado Superior de *Desarrolo de Aplicaciones Multiplataforma* y tengo el Grado Medio de *Sistemas microinformáticos y redes*.
 
 -Intento programar😝💻
