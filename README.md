@@ -1,16 +1,17 @@
 ![imagen](Imagenes/Rocío.png)
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
 
--Estudiante de Grado Superior de *Desarrolo de Aplicaciones Multiplataforma* 
+Estudiante de Grado Superior de *Desarrolo de Aplicaciones Multiplataforma* 
 
--Grado Medio de *Sistemas microinformáticos y redes*.
+Grado Medio de *Sistemas microinformáticos y redes*.
 
 
 <blockquote align=center>💻Intentando mejorar cada día💻</blockquote>
 
 <br>
 
-Me **encantan** los animales 🐱🐱🐱🐶❤, la buena música🎵, los videojuegos 🎮, leer 📚 , ver series/películas/anime🎬. Pero sobretodo mejorar y avanzar.
+Me **encantan** los animales 🐱🐱🐱🐶❤, la buena música🎵, los videojuegos 🎮, leer 📚 , ver series/películas/anime🎬. 
+Pero sobretodo mejorar y avanzar.
 
 Se programa mucho mejor con buena música y café☕🎧 
 
