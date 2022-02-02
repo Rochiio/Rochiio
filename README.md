@@ -1,15 +1,20 @@
 ![imagen](Imagenes/Rocío.png)
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
 
--Soy estudiante de Grado Superior de *Desarrolo de Aplicaciones Multiplataforma* y tengo el Grado Medio de *Sistemas microinformáticos y redes*.
+-Estudiante de Grado Superior de *Desarrolo de Aplicaciones Multiplataforma* 
 
--Intento programar😝💻
+-Grado Medio de *Sistemas microinformáticos y redes*.
 
--Me **encantan** los animales 🐱🐱🐱🐶❤, los videojuegos🎮, las series📺, y las películas🎬 sobre todo las del [Studio Ghibli](https://cineando.es/todas-las-peliculas-del-studio-ghibli/).
 
--Escuchar música toooodo el día es una de mis pasiones🎧🎧 
+<blockquote align=center>💻Intentando mejorar cada día💻</blockquote>
 
--Si quieres hacerme feliz dame Sushi 🍣<br><br>
+<br>
+
+Me **encantan** los animales 🐱🐱🐱🐶❤, la buena música🎵, los videojuegos 🎮, leer 📚 , ver series/películas/anime🎬. Pero sobretodo mejorar y avanzar.
+
+Se programa mucho mejor con buena música y café☕🎧 
+
+Si quieres hacerme feliz dame Sushi 🍣<br><br>
 
 <blockquote align=center>🌸Los problemas son oportunidades disfrazadas🌸</blockquote>
 
@@ -28,13 +33,9 @@
 ---
 <br>
 
-<a href="https://twitter.com/SrtaRocii_">
+<div align=center><a href="https://twitter.com/SrtaRocii_">
   <img src="Imagenes/twitter.png" width="100">
-</a>
-<a href="https://www.linkedin.com/in/rociopalao/">
-  <img src="Imagenes/linkedin.png" width="100">
-</a>
-
+</a></div>
 
 <br><bt>
 
