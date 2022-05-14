@@ -25,9 +25,20 @@ Si quieres hacerme feliz dame Sushi 🍣<br><br>
 
 ---
     -Java
+    -Kotlin
+    -JavaScript
     -TypeScript
     -HTML
     -CSS
+
+<br>
+
+<h2 align=center> 🌷Actividad🌷 </h2>
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochiio&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochiio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2 align=center> 🌷Redes🌷 </h2>
 
