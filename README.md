@@ -1,7 +1,7 @@
 ![imagen](Imagenes/Rocío.png)
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
 
-Estudiante de Grado Superior de *Desarrolo de Aplicaciones Multiplataforma* 
+Estudiante de Grado Superior de *Desarrollo de Aplicaciones Multiplataforma* 
 
 Grado Medio de *Sistemas microinformáticos y redes*.
 
