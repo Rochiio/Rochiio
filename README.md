@@ -1,6 +1,13 @@
 ![imagen](Imagenes/Rocío.png)
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
 
+<a href="https://www.twitter.com/SrtaRocii_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SrtaRocii_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
+/></a>
+
+<a href="https://www.github.com/Rochiio" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Rochiio?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
+
 Estudiante de Grado Superior de *Desarrollo de Aplicaciones Multiplataforma* 
 
 Grado Medio de *Sistemas microinformáticos y redes*.
@@ -23,6 +30,7 @@ Si quieres hacerme feliz dame Sushi 🍣<br><br>
 
 <h2 align=center> 🌷Lenguajes Utilizados🌷 </h2>
 
+---
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
@@ -39,7 +47,8 @@ Si quieres hacerme feliz dame Sushi 🍣<br><br>
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochiio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochiio&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Rochiio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochiio&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <h2 align=center> 🌷Redes🌷 </h2>
@@ -47,11 +56,9 @@ Si quieres hacerme feliz dame Sushi 🍣<br><br>
 ---
 <br>
 
-<div align=center><a href="https://twitter.com/SrtaRocii_">
-  <img src="Imagenes/twitter.png" width="100">
-</a></div>
+<p align="left"> <a href="https://www.github.com/Rochiio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SrtaRocii_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<br><bt>
+<br>
 
 
 ![](Imagenes/Disfruta.png)
