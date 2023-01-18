@@ -43,13 +43,6 @@ Si quieres hacerme feliz dame Sushi 🍣<br><br>
 
 <br>
 
-<h2 align=center> 🌷Actividad🌷 </h2>
-
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rochiio&show_icons=true&theme=radical)
-
-<a href="https://github.com/Rochiio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochiio&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 <h2 align=center> 🌷Redes🌷 </h2>
 
