@@ -1,12 +1,6 @@
 ![imagen](Imagenes/Rocío.png)
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
 
-<a href="https://www.twitter.com/SrtaRocii_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SrtaRocii_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
-/></a>
-
-<a href="https://www.github.com/Rochiio" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rochiio?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
 
 Estudiante de Grado Superior de *Desarrollo de Aplicaciones Multiplataforma* 
 
