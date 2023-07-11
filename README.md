@@ -2,9 +2,9 @@
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
 
 
-Estudiante de Grado Superior de *Desarrollo de Aplicaciones Multiplataforma* 
+Técnico Superior en *Desarrollo de Aplicaciones Multiplataforma* 
 
-Grado Medio de *Sistemas microinformáticos y redes*.
+Técnico en *Sistemas microinformáticos y redes*.
 
 
 <blockquote align=center>💻Intentando mejorar cada día💻</blockquote>
