@@ -1,6 +1,7 @@
 ![imagen](Imagenes/Rocío.png)
 <h1 align=center>Soy Rocío 💙🎮💻</h1>
 
+Técnico Superior en *Ánalisis de datos y procesos* 
 
 Técnico Superior en *Desarrollo de Aplicaciones Multiplataforma* 
 
